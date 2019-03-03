@@ -17,6 +17,8 @@
 7. *Education:* Higher education (Economic). As for the IT - only self-education
 8. *English Level:* **B1.** Graduated from school with advanced study of English, though it was long ago:)
 ___
+
+
 > "Hope I will work in IT soon..." 
 
 ___
