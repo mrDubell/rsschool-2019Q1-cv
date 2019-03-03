@@ -1,2 +1,2 @@
 **Link:**  
-https://mrdubell.github.io/rsschool-2019Q1-cv/cv.
+https://mrDubell.github.io/rsschool-2019Q1-cv/cv.
