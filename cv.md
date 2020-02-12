@@ -5,7 +5,7 @@
 3. *Summary:* (I don't think I have enough knowledge at the moment to get a job, but I will continue study to improve my knowledge and get a job in IT.)
 
 4. *Skills*: **HTML/CSS/JS** (base level)... In plans:  
-    - frameworks/libraries ([Ract](https://reactjs.org/), [Angular](https://angular.io/), [Vue](https://vuejs.org/), [JQuery](https://jquery.com/))
+    - frameworks/libraries ([React](https://reactjs.org/), [Angular](https://angular.io/), [Vue](https://vuejs.org/), [JQuery](https://jquery.com/))
     - preprocessors
     - data bases
     - UI/UX
