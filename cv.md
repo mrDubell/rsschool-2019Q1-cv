@@ -4,14 +4,15 @@
 2. *Contacts:* **Mobile number/VIBER/WhatsApp:** 375445143063, **skype:** mrdubell, **mail:** dubell1986@gmail.com
 3. *Summary:* (I don't think I have enough knowledge at the moment to get a job, but I will continue study to improve my knowledge and get a job in IT.)
 
-4. *Skills*: **HTML/CSS/JS** (base level)... In plans:  
-    - frameworks/libraries ([React](https://reactjs.org/), [Angular](https://angular.io/), [Vue](https://vuejs.org/), [JQuery](https://jquery.com/))
-    - preprocessors
-    - data bases
+4. *Skills*: **HTML/CSS/vanilla JS** ... In plans:  
+    - JS frameworks/libraries ([React](https://reactjs.org/), [Angular](https://angular.io/), [Vue](https://vuejs.org/), [JQuery](https://jquery.com/))
+    - CSS preprocessors
+    - SQL
     - UI/UX
+    - PaaS
     - and more..
 
-5. *Code:* `alert('Hello, RSSchool!');`
+5. *Code:* `let hello = () => "Hello World!";`
 6. *Experience:* unfortunately, I have no experience on real projects 
 
 7. *Education:* Higher education (Economic). As for the IT - only self-education
